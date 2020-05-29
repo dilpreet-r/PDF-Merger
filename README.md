@@ -1,6 +1,6 @@
 This application can be used to merge .pdf files together.
 
-First you need to clone this repository into your system.
+First you need to clone this repository into your system.You need to have python installed.
 
 Then use: ( pip install -r requirements ) to install all the required modules.
 
